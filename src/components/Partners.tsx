@@ -45,12 +45,20 @@ const Partners = () => {
                             className="flex items-center justify-center col-span-1"
                         >
                             <div className={`${partner.name === 'R R Decor' ? 'bg-black p-2 rounded' : ''}`}>
-                                <Image
+                                {/* Try regular img tag first for debugging */}
+                                <img
                                     src={partner.logo}
                                     alt={partner.name}
                                     width={partner.name === 'Texam' ? 200 : 140}
                                     height={partner.name === 'Texam' ? 90 : 60}
                                     className={`object-contain hover:opacity-80 transition-opacity duration-300 ${partner.name === 'Texam' ? 'max-h-20' : 'max-h-12'}`}
+                                    onError={(e) => {
+                                        console.error(`Failed to load image for ${partner.name}:`, partner.logo);
+                                        console.error('Error:', e);
+                                    }}
+                                    onLoad={() => {
+                                        console.log(`Successfully loaded image for ${partner.name}:`, partner.logo);
+                                    }}
                                 />
                             </div>
                         </div>
