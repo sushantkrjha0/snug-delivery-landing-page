@@ -26,9 +26,6 @@ yarn-error.log*
 .env*.local
 .env
 
-# Vercel
-.vercel
-
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
@@ -39,3 +36,6 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+# Render
+.render-buildpacks-cache

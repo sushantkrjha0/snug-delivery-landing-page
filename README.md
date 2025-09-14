@@ -1,3 +1,5 @@
+# Snug Delivery Landing
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -29,8 +31,19 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deploy on Render
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This application is configured to deploy on [Render.com](https://render.com). The deployment is configured via the `render.yaml` file in the root directory.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Deployment Steps:
+
+1. Push your code to GitHub
+2. Connect your GitHub repository to Render
+3. Render will automatically detect the `render.yaml` file and deploy your application
+4. Your app will be available at the provided Render URL
+
+Check out the [Render documentation](https://render.com/docs) for more deployment details.
+
+## Environment Variables
+
+If your application uses environment variables, make sure to set them in the Render dashboard under the Environment tab of your service.
