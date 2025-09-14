@@ -1,0 +1,152 @@
+{
+  "hero": {
+    "welcome_text": "Welcome Home to\\nComfort",
+    "tagline": "Where every thread tells a story of warmth and comfort",
+    "cta_text": "Start Your Journey",
+    "cta_link": "/productPg"
+  },
+  "intro": {
+    "text": "At Snug, we create more than just furnishings - we craft cozy corners and comfortable spaces that make your house feel truly like home."
+  },
+  "features": [
+    {
+      "title": "Made in India",
+      "image": "/img/desc1.jpeg",
+      "description": "Every piece we create carries the warmth of Indian hospitality and craftsmanship. Our talented local artisans pour their hearts into crafting your curtains, blinds, wallpapers, and upholstery, bringing together traditional skills and modern comfort in perfect harmony."
+    },
+    {
+      "title": "Complete Personalisation",
+      "image": "/img/desc2.jpeg",
+      "description": "Your home should be as unique as you are! We love working closely with you to create soft furnishings that feel just right. From picking out the perfect fabrics to choosing patterns that make you smile, we're here to help you create spaces that truly feel like you."
+    },
+    {
+      "title": "Quality Assurance",
+      "image": "/img/desc3.jpeg",
+      "description": "We believe in creating furnishings that feel like old friends - reliable, comforting, and always there for you. Every piece we make is crafted with care and attention, using materials that not only look beautiful but stand the test of time, making your home cozy and inviting for years to come."
+    }
+  ],
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Custom Curtains",
+        "image": "/img/curtainWork.jpg",
+        "description": "Let's dress your windows in style! Our custom curtains are like a warm hug for your windows, bringing together beauty and comfort while perfectly matching your home's personality."
+      },
+      {
+        "title": "Window Blinds",
+        "image": "/img/blinds.jpg",
+        "description": "Control light and privacy with our friendly range of window blinds. Whether you're looking for a cozy morning light or peaceful afternoon shade, we have the perfect solution for your daily comfort."
+      },
+      {
+        "title": "Wallpapers",
+        "image": "/img/wallpaper.jpg",
+        "description": "Give your walls a warm embrace with our delightful wallpaper collection. From subtle textures to cheerful patterns, we'll help you find the perfect design to make your rooms feel wonderfully welcoming."
+      },
+      {
+        "title": "Upholstery",
+        "image": "/img/SAN_2010r.jpg",
+        "description": "Let's bring new life to your beloved furniture! Our upholstery service combines soft, durable fabrics with caring craftsmanship to make your favorite pieces even more comfortable and inviting."
+      }
+    ]
+  },
+  "about": {
+    "main_intro": "OUR STORY",
+    "paragraphs": [
+      "Welcome to our cozy corner of the world, where we're all about making homes happier!",
+      "We believe that a home should wrap you in comfort like a warm blanket. That's why we put our hearts into creating soft furnishings that make you smile every time you walk through the door.",
+      "Like good neighbors, we care about our planet too. We work with friendly, eco-conscious partners to create furnishings that are kind to both your home and Mother Earth.",
+      "Let us help you turn your house into a warm, welcoming haven with our lovingly crafted curtains, blinds, wallpapers, and upholstery - because everyone deserves a home that gives them a big, comfy hug!"
+    ],
+    "cta_text": "Get to Know Us",
+    "cta_link": "/about"
+  },
+  "vision_mission": {
+    "vision": {
+      "title": "Our Dream",
+      "paragraphs": [
+        "We dream of making every home in India a cozy haven where comfort meets style, and where every soft furnishing tells a story of warmth and welcome.",
+        "We picture a future where walking into your home feels like getting a warm hug, thanks to perfectly personalized soft furnishings that reflect your heart."
+      ]
+    },
+    "mission": {
+      "title": "Our Promise",
+      "main_text": "To fill every home with warmth and comfort through soft furnishings that feel like they were made just for you - because they were!",
+      "points": [
+        "Getting to know you and your home's personality",
+        "Walking with you every step of the way with friendly guidance",
+        "Creating each piece with love and care using the best materials",
+        "Making sure everyone can enjoy the comfort they deserve"
+      ]
+    }
+  },
+  "values": {
+    "title": "What We Hold Dear",
+    "subtitle": "The heart and soul of everything we do",
+    "items": [
+      {
+        "title": "Heartfelt Quality",
+        "description": "We put love and care into every stitch, using materials that feel as good as they look."
+      },
+      {
+        "title": "Your Home, Your Way",
+        "description": "We listen to your dreams and work together to make them come true in your space."
+      }
+    ]
+  },
+  "quality_standards": {
+    "intro": "Like a warm cup of tea on a cozy morning, our soft furnishings bring comfort and joy to your home. We pour our hearts into creating curtains, blinds, wallpapers, and upholstery that make you feel right at home, using the finest materials and most caring craftsmanship.",
+    "standards": [
+      {
+        "title": "Made with Love",
+        "description": "Just like home-cooked meals taste better, furnishings made with love feel better. We put our hearts into creating pieces that bring warmth and comfort to your space, focusing on quality that you can feel in every touch and see in every detail."
+      },
+      {
+        "title": "Earth-Friendly Materials",
+        "description": "We carefully choose materials that are kind to both your home and our planet. Like picking ingredients for a special recipe, we select fabrics and materials that meet our high standards for quality and sustainability, creating furnishings that feel good in every way."
+      },
+      {
+        "title": "Fresh Ideas, Timeless Comfort",
+        "description": "We love mixing fresh, modern ideas with the timeless comfort of home. Like updating a family recipe with a new twist, we blend contemporary styles with classic comfort to create pieces that feel both exciting and familiar."
+      },
+      {
+        "title": "Little Details, Big Love",
+        "description": "It's the little things that make a house feel like home. We pay attention to every detail, from the smallest stitch to the final touches, ensuring each piece we create adds that special touch of comfort to your space."
+      },
+      {
+        "title": "Right on Time",
+        "description": "Like a good friend, we're reliable and punctual. We know how exciting it is to wait for something special, so we work hard to deliver your custom furnishings right when we promise, without ever rushing the quality you deserve."
+      },
+      {
+        "title": "All About You",
+        "description": "Your comfort is our priority! We love getting to know you and understanding exactly what makes you feel at home. Together, we'll create soft furnishings that feel like they were made just for you - because they were!"
+      },
+      {
+        "title": "Always Here for You",
+        "description": "Like a neighbor you can count on, we're here whenever you need us. From the first hello to long after your furnishings are installed, our friendly team is always ready to help make your home even more comfortable."
+      },
+      {
+        "title": "Growing Together",
+        "description": "Your feedback helps us grow! We treasure every suggestion and story you share, using them to make our services even better. It's like having a conversation with good friends - the more we talk, the better we understand how to make your home even cozier."
+      }
+    ]
+  },
+  "sustainability": {
+    "title": "Caring for Our Earth",
+    "intro": "Like tending to a garden, we carefully nurture our relationship with the environment, making thoughtful choices in everything from our materials to our methods."
+  },
+  "footer": {
+    "brand_description": "Creating warm, welcoming homes with love and care. We bring comfort and happiness to Bangalore families through our heartfelt soft furnishing services."
+  },
+  "about_page": {
+    "hero": {
+      "title": "About Snug",
+      "paragraphs": [
+        "At Snug, we're like your favorite neighbors who happen to be amazing at making homes cozier! We specialize in creating soft furnishings that make your space feel like a warm hug. Our team loves working with custom curtains, friendly blinds, cheerful wallpapers, and comfy upholstery—each piece crafted with love to make your home feel perfectly you.",
+        "With over a decade of making homes happier, we understand that every family has their own special story. Our caring team loves getting to know you and working together to bring your vision to life, making sure every fabric we choose and every detail we add helps create spaces that feel wonderfully welcoming."
+      ],
+      "tagline": "Where every home gets a warm hug—made just for you.",
+      "cta_text": "Let's Get Started Together"
+    }
+  }
+}

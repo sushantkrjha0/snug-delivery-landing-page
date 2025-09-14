@@ -1,0 +1,152 @@
+{
+  "hero": {
+    "welcome_text": "Where Dreams\nTake Form",
+    "tagline": "Weaving stories of beauty into the fabric of your home",
+    "cta_text": "Begin Your Journey",
+    "cta_link": "/productPg"
+  },
+  "intro": {
+    "text": "In the gentle folds of fabric and whispers of design, Snug creates living poetry through soft furnishings that transform spaces into sanctuaries of beauty and tranquility."
+  },
+  "features": [
+    {
+      "title": "Made in India",
+      "image": "/img/desc1.jpeg",
+      "description": "Like verses woven into a tapestry of tradition, our soft furnishings tell stories of India's rich heritage. Each curtain, blind, wallpaper, and upholstery piece is a masterpiece born from the skilled hands of artisans who paint with thread and sculpt with fabric, creating symphonies of texture and form that echo the soul of our cultural legacy."
+    },
+    {
+      "title": "Complete Personalisation",
+      "image": "/img/desc2.jpeg",
+      "description": "Your story deserves to be told in the language of beauty. Like an artist with a blank canvas, we work with you to compose spaces that sing with your unique voice. From the whisper of silk to the bold statements of pattern, every element is carefully chosen to create a personal sanctuary that reflects the poetry of your life."
+    },
+    {
+      "title": "Quality Assurance",
+      "image": "/img/desc3.jpeg",
+      "description": "In the dance between form and function, quality leads every step. Like stars that never fade, our creations stand the test of time through a perfect ballet of superior materials and masterful craftsmanship. Each piece is a promise of enduring beauty, crafted to write stories of elegance across generations."
+    }
+  ],
+  "services": {
+    "title": "Our Artistry",
+    "items": [
+      {
+        "title": "Custom Curtains",
+        "image": "/img/curtainWork.jpg",
+        "description": "Like flowing waterfalls of fabric, our custom curtains dance with light and shadow, creating fluid poetry in motion. Each piece is carefully orchestrated to frame your world in elegant verses of texture and movement."
+      },
+      {
+        "title": "Window Blinds",
+        "image": "/img/blinds.jpg",
+        "description": "Masters of light and shadow, our blinds conduct symphonies of illumination. From gentle filtered rays to dramatic darkness, they paint your spaces with the brushstrokes of natural light, creating ever-changing masterpieces throughout the day."
+      },
+      {
+        "title": "Wallpapers",
+        "image": "/img/wallpaper.jpg",
+        "description": "Let your walls whisper stories of beauty with our enchanting wallpaper collection. Each design is a canvas of imagination, where patterns dance and colors sing, transforming ordinary walls into extraordinary narratives."
+      },
+      {
+        "title": "Upholstery",
+        "image": "/img/SAN_2010r.jpg",
+        "description": "Like a phoenix rising, our upholstery services breathe new life into beloved pieces. Through the alchemy of premium fabrics and artisanal skill, we transform furniture into poetry you can touch, creating comfortable verses for life's daily moments."
+      }
+    ]
+  },
+  "about": {
+    "main_intro": "OUR STORY",
+    "paragraphs": [
+      "In the grand tapestry of design, we weave dreams into reality, creating spaces where beauty finds its home.",
+      "Like a carefully composed sonnet, each piece we create is a verse in the story of your space. We believe in the poetry of perfect moments, where every thread and texture plays its part in the symphony of your home.",
+      "In harmony with nature's own artistry, we partner with craftsmen who share our passion for sustainable beauty, creating pieces that honor both the earth's resources and your desire for elegance.",
+      "Let us help you write the next chapter of your home's story through our artfully crafted curtains, blinds, wallpapers, and upholstery\u2014where every detail sings a song of beauty and purpose."
+    ],
+    "cta_text": "Discover Our Story",
+    "cta_link": "/about"
+  },
+  "vision_mission": {
+    "vision": {
+      "title": "Our Dream",
+      "paragraphs": [
+        "To paint India's homes with the brushstrokes of beauty, where every soft furnishing tells a story of artistry, comfort, and timeless elegance.",
+        "We envision spaces where every thread weaves a tale of personal expression, and every room becomes a canvas for life's most beautiful moments."
+      ]
+    },
+    "mission": {
+      "title": "Our Purpose",
+      "main_text": "To transform living spaces into poetry through soft furnishings that dance with light, whisper with texture, and sing with color.",
+      "points": [
+        "Listening to the unique rhythm of each client's vision",
+        "Guiding with the wisdom of artistic expertise",
+        "Crafting with the passion of true artisans",
+        "Making the poetry of design accessible to all"
+      ]
+    }
+  },
+  "values": {
+    "title": "Our Essence",
+    "subtitle": "The verses that guide our creative journey",
+    "items": [
+      {
+        "title": "Artistry in Motion",
+        "description": "Every stitch we sew and every fold we create is a brushstroke in the masterpiece of your home."
+      },
+      {
+        "title": "Symphony of You",
+        "description": "Your story inspires our creativity, leading us to compose spaces that echo with your unique melody."
+      }
+    ]
+  },
+  "quality_standards": {
+    "intro": "Like a masterful composition, our soft furnishings blend the finest materials with artistic vision and timeless craft. Each curtain, blind, wallpaper, and upholstery piece we create is a verse in the poetry of your home, where innovation dances with tradition and beauty embraces function.",
+    "standards": [
+      {
+        "title": "The Art of Excellence",
+        "description": "Like a perfectly composed verse, excellence flows through every creation. We orchestrate a harmony of design, comfort, and durability in our soft furnishings, crafting pieces that not only catch the eye but also touch the soul, transforming spaces into sanctuaries of beauty."
+      },
+      {
+        "title": "Nature's Finest Threads",
+        "description": "As a painter selects their finest pigments, we source materials that tell stories of quality and care. Our selection process honors both the poetry of premium materials and the prose of sustainability, creating furnishings that sing in harmony with nature."
+      },
+      {
+        "title": "Dance of Innovation",
+        "description": "Like a modern sonnet that honors classical form, our designs blend contemporary innovation with timeless grace. We choreograph new possibilities while preserving the elegant rhythms of traditional craft, creating pieces that speak to both present and future."
+      },
+      {
+        "title": "Symphony of Details",
+        "description": "In the orchestra of creation, every detail plays its part. From the whisper of a stitch to the crescendo of a final fold, our artisans conduct a symphony of small perfections, ensuring each piece tells its story with complete harmony."
+      },
+      {
+        "title": "Rhythm of Time",
+        "description": "Like the steady beat of a metronome, we honor the rhythm of your timeline. Our creative process flows with precision and grace, ensuring your custom furnishings arrive in perfect time, each piece worth the anticipation it inspired."
+      },
+      {
+        "title": "Verses of You",
+        "description": "Your vision is the muse that inspires our creativity. We listen deeply to understand the poetry of your preferences, translating your dreams into tangible beauty that resonates with your personal story."
+      },
+      {
+        "title": "Eternal Harmony",
+        "description": "Our commitment to beauty extends beyond the final stitch. Like a melody that lingers, we remain present throughout your journey, ensuring that the poetry of your space continues to sing with the same beauty as the day it was created."
+      },
+      {
+        "title": "Evolution of Art",
+        "description": "Like a living poem, we grow through the verses of your feedback. Each suggestion and story you share adds new colors to our palette, helping us create ever more beautiful symphonies of space and style."
+      }
+    ]
+  },
+  "sustainability": {
+    "title": "Nature's Poetry",
+    "intro": "In the delicate balance between beauty and responsibility, we craft our environmental story with the same care we bring to our creations, honoring the earth's resources in every thread and texture."
+  },
+  "footer": {
+    "brand_description": "Weaving dreams into reality through the artistry of soft furnishings. We create living poetry for Bangalore homes with beauty, grace, and timeless elegance."
+  },
+  "about_page": {
+    "hero": {
+      "title": "About Snug",
+      "paragraphs": [
+        "At Snug, we are the poets of interior spaces, weaving dreams into the very fabric of your home. We specialize in creating symphonies of soft furnishings where custom curtains dance with light, blinds compose verses of shadow, wallpapers whisper stories of beauty, and upholstery becomes poetry you can touch—each piece carefully orchestrated to create living art.",
+        "With over a decade of crafting stories in thread and texture, we understand that every home has its own unique melody waiting to be discovered. Our artistic souls work intimately with you to translate your dreams into tangible beauty, ensuring every fabric choice, every pattern selection, and every delicate detail contributes to composing spaces that sing with your personal story."
+      ],
+      "tagline": "Where stories unfold in silk and song—crafted for your soul.",
+      "cta_text": "Begin Your Story"
+    }
+  }
+}

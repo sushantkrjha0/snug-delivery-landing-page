@@ -1,0 +1,157 @@
+{
+  "hero": {
+    "welcome_text": "Elegance in\\nEvery Thread",
+    "tagline": "Indulge in the perfect blend of style and comfort",
+    "cta_text": "Explore our services",
+    "cta_link": "/productPg"
+  },
+  "intro": {
+    "text": "Snug brings bespoke comfort to your home with custom soft furnishings that blend style, function, and elegance, perfect for any space."
+  },
+  "features": [
+    {
+      "title": "Made in India",
+      "image": "/img/desc1.jpeg",
+      "description": "Our soft furnishings embody the perfect fusion of India's rich textile heritage and contemporary design sensibilities. Each curtain, blind, wallpaper, and upholstery piece is meticulously crafted by skilled Indian artisans, showcasing the exceptional craftsmanship and attention to detail that our country is renowned for."
+    },
+    {
+      "title": "Complete Personalisation",
+      "image": "/img/desc2.jpeg",
+      "description": "Experience soft furnishings that are truly yours with our comprehensive customization options. From selecting premium fabrics and exquisite patterns to choosing specific design elements for your curtains, blinds, wallpapers, and upholstery, we empower you to create pieces that perfectly align with your vision and lifestyle needs."
+    },
+    {
+      "title": "Quality Assurance",
+      "image": "/img/desc3.jpeg",
+      "description": "Excellence is at the heart of everything we create. By combining superior fabrics and materials with meticulous craftsmanship, we ensure each soft furnishing piece not only meets but exceeds industry standards. Our rigorous quality control process guarantees curtains, blinds, wallpapers, and upholstery that are both visually stunning and built for generations."
+    }
+  ],
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Custom Curtains",
+        "image": "/img/curtainWork.jpg",
+        "description": "Transform your space with our curated selection of custom curtains that cater to diverse aesthetic preferences and functional needs, ensuring the perfect blend of elegance and practicality."
+      },
+      {
+        "title": "Window Blinds",
+        "image": "/img/blinds.jpg",
+        "description": "Enhance your privacy and light control with our sleek and versatile blinds. From roller to venetian designs, we offer premium solutions that complement your style and elevate your living spaces."
+      },
+      {
+        "title": "Wallpapers",
+        "image": "/img/wallpaper.jpg",
+        "description": "Reimagine your walls with our exquisite wallpaper collection from renowned international and Indian brands. Add texture, color, and personality to your space with custom designs that reflect your unique taste."
+      },
+      {
+        "title": "Upholstery",
+        "image": "/img/SAN_2010r.jpg",
+        "description": "Revitalize your furniture with our premium upholstery services. We combine high-quality fabrics with expert craftsmanship to breathe new life into your cherished pieces, ensuring lasting comfort and style."
+      }
+    ]
+  },
+  "about": {
+    "main_intro": "ABOUT US",
+    "paragraphs": [
+      "Welcome to Snug, where comfort, connectivity, and sustainability come together.",
+      "We believe home is more than a space—it's an experience that should seamlessly fit your lifestyle. Every piece we create reflects our commitment to bringing versatile, adaptable soft furnishings that blend effortlessly into your home.",
+      "Committed to style, quality, and sustainability, we partner with eco-conscious brands to offer responsibly made soft furnishings. At Snug, we create lasting experiences that enhance your space while caring for the planet.",
+      "Discover how Snug transforms your home through our custom curtains, blinds, wallpapers, and upholstery—bringing comfort, connection, and conscious living to every room."
+    ],
+    "cta_text": "Know More",
+    "cta_link": "/about"
+  },
+  "vision_mission": {
+    "vision": {
+      "title": "Our Vision",
+      "paragraphs": [
+        "To revolutionize India's soft furnishing industry through bold design, uncompromising quality, and fearless innovation.",
+        "We see a future where every space makes a statement, where soft furnishings aren't just accessories - they're game-changers."
+      ]
+    },
+    "mission": {
+      "title": "Our Mission",
+      "main_text": "To create powerful, transformative soft furnishing solutions that challenge the ordinary and redefine what's possible.",
+      "points": [
+        "Capturing your bold vision and making it reality",
+        "Delivering expert guidance with absolute clarity",
+        "Creating statement pieces with premium materials",
+        "Making powerful design accessible to all"
+      ]
+    }
+  },
+  "values": {
+    "title": "Our Standards",
+    "subtitle": "The non-negotiables that drive us forward",
+    "items": [
+      {
+        "title": "Zero Compromise",
+        "description": "The best materials, the finest craftsmanship, no exceptions."
+      },
+      {
+        "title": "Maximum Impact",
+        "description": "Every piece we create is designed to make a statement and transform your space."
+      }
+    ]
+  },
+  "quality_standards": {
+    "intro": "We don't just meet standards - we set them. Every curtain, blind, wallpaper, and upholstery piece we create is a bold statement of quality, where innovative design meets uncompromising execution.",
+    "standards": [
+      {
+        "title": "Absolute Excellence",
+        "description": "Excellence isn't optional - it's mandatory. We create soft furnishings that don't just meet expectations - they shatter them. Every piece is a powerful combination of design, comfort, and durability, engineered to transform spaces and exceed standards."
+      },
+      {
+        "title": "Premium Materials, Zero Compromise",
+        "description": "We source only the best materials, period. Our partnerships with top suppliers ensure every fabric and material meets our demanding standards for both quality and sustainability. No compromises, no exceptions."
+      },
+      {
+        "title": "Fearless Innovation",
+        "description": "We don't follow trends - we set them. Our designs push boundaries and challenge conventions, combining bold innovation with rock-solid craftsmanship to create pieces that don't just fit in - they stand out."
+      },
+      {
+        "title": "Detail Obsessed",
+        "description": "Details aren't minor - they're everything. From the strength of each stitch to the precision of every finish, we obsess over the details that others overlook. Because greatness isn't just about the big picture - it's about nailing every single element."
+      },
+      {
+        "title": "On Time, Every Time",
+        "description": "We don't do delays. Our streamlined production process and precise logistics ensure your custom furnishings arrive exactly when promised. Quality at speed, delivered on schedule."
+      },
+      {
+        "title": "Your Vision, Amplified",
+        "description": "Your bold ideas drive our creative engine. We don't just listen to your vision - we enhance it, pushing boundaries to create soft furnishings that exceed your expectations and transform your space."
+      },
+      {
+        "title": "Beyond the Basics",
+        "description": "Our commitment doesn't end at delivery. We provide comprehensive, ongoing support to ensure your bold design choices continue to make an impact. Count on us to maintain the power of your space."
+      },
+      {
+        "title": "Always Advancing",
+        "description": "We're never satisfied with 'good enough.' Your feedback fuels our evolution, pushing us to create even more powerful designs and innovative solutions. Together, we're always moving forward, always improving."
+      }
+    ]
+  },
+  "sustainability": {
+    "title": "Sustainable Impact",
+    "intro": "We're committed to bold environmental responsibility. Every decision, from material selection to manufacturing processes, is made with both maximum impact and minimum environmental footprint in mind."
+  },
+
+
+  "footer": {
+    "brand_description": "Crafting premium soft furnishing solutions with exceptional quality and personalized service across Bangalore."
+  },
+
+
+
+      "about_page": {
+      "hero": {
+        "title": "About Snug",
+        "paragraphs": [
+          "At Snug, we specialize in the refined craft of soft furnishing, creating bespoke solutions that bring warmth, elegance, and personality to your living spaces. Our expertise spans custom curtains, premium blinds, designer wallpapers, and exquisite upholstery—each piece meticulously crafted to reflect your unique style.",
+          "With over a decade of experience in soft furnishing, we understand that every home has its own story. Our dedicated team works closely with you to translate your vision into reality, ensuring that every fabric choice, pattern selection, and finishing detail contributes to creating spaces that truly feel like home."
+        ],
+        "tagline": "Where comfort meets sophistication—customized, just for you.",
+        "cta_text": "Start Your Project"
+    }
+  }
+}

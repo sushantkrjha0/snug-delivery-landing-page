@@ -1,0 +1,152 @@
+{
+  "hero": {
+    "welcome_text": "Bold Design.\\nBetter Living.",
+    "tagline": "Transform your space with statement-making soft furnishings",
+    "cta_text": "Make It Happen",
+    "cta_link": "/productPg"
+  },
+  "intro": {
+    "text": "At Snug, we don't just make soft furnishings - we create powerful statements that transform ordinary spaces into extraordinary environments."
+  },
+  "features": [
+    {
+      "title": "Made in India",
+      "image": "/img/desc1.jpeg",
+      "description": "We're proudly Indian, and it shows in every bold stitch. Our artisans combine centuries of craft expertise with contemporary design power to create curtains, blinds, wallpapers, and upholstery that make a statement. This isn't just craftsmanship - it's a revolution in Indian design."
+    },
+    {
+      "title": "Complete Personalisation",
+      "image": "/img/desc2.jpeg",
+      "description": "Your space, your rules. We put you in control with total customization power. From striking fabrics to dramatic patterns, every choice is yours. Create soft furnishings that don't just fit your space - they define it."
+    },
+    {
+      "title": "Quality Assurance",
+      "image": "/img/desc3.jpeg",
+      "description": "We don't compromise. Period. Premium materials meet master craftsmanship in a bold fusion of quality and style. Every piece we create isn't just built to last - it's built to impress, designed to stand out, and guaranteed to transform your space."
+    }
+  ],
+  "services": {
+    "title": "Our Power Moves",
+    "items": [
+      {
+        "title": "Custom Curtains",
+        "image": "/img/curtainWork.jpg",
+        "description": "Make your windows work harder. Our custom curtains don't just dress windows - they command attention, control light, and create impact. Bold designs, perfect fits, no compromises."
+      },
+      {
+        "title": "Window Blinds",
+        "image": "/img/blinds.jpg",
+        "description": "Take control of your space. Our blinds aren't just functional - they're powerful tools for light and privacy management. Clean lines, strong designs, total control."
+      },
+      {
+        "title": "Wallpapers",
+        "image": "/img/wallpaper.jpg",
+        "description": "Walls that wow. Our wallpapers don't blend in - they stand out. Choose from striking patterns and bold designs that transform your walls from background to breakthrough."
+      },
+      {
+        "title": "Upholstery",
+        "image": "/img/SAN_2010r.jpg",
+        "description": "Furniture that demands attention. Our upholstery services don't just refresh - they revolutionize. Premium fabrics, expert craftsmanship, maximum impact."
+      }
+    ]
+  },
+  "about": {
+    "main_intro": "WHO WE ARE",
+    "paragraphs": [
+      "We're Snug, and we're here to revolutionize your space.",
+      "We believe in bold moves and big impact. Every piece we create is designed to make a statement, engineered to perform, and built to transform your environment.",
+      "We partner with forward-thinking suppliers who share our commitment to both powerful design and environmental responsibility. No compromises, no excuses.",
+      "Let us transform your space with statement-making curtains, blinds, wallpapers, and upholstery. Because ordinary isn't an option."
+    ],
+    "cta_text": "Join the Revolution",
+    "cta_link": "/about"
+  },
+  "vision_mission": {
+    "vision": {
+      "title": "Our Vision",
+      "paragraphs": [
+        "To revolutionize India's soft furnishing industry through bold design, uncompromising quality, and fearless innovation.",
+        "We see a future where every space makes a statement, where soft furnishings aren't just accessories - they're game-changers."
+      ]
+    },
+    "mission": {
+      "title": "Our Mission",
+      "main_text": "To create powerful, transformative soft furnishing solutions that challenge the ordinary and redefine what's possible.",
+      "points": [
+        "Capturing your bold vision and making it reality",
+        "Delivering expert guidance with absolute clarity",
+        "Creating statement pieces with premium materials",
+        "Making powerful design accessible to all"
+      ]
+    }
+  },
+  "values": {
+    "title": "Our Standards",
+    "subtitle": "The non-negotiables that drive us forward",
+    "items": [
+      {
+        "title": "Zero Compromise",
+        "description": "The best materials, the finest craftsmanship, no exceptions."
+      },
+      {
+        "title": "Maximum Impact",
+        "description": "Every piece we create is designed to make a statement and transform your space."
+      }
+    ]
+  },
+  "quality_standards": {
+    "intro": "We don't just meet standards - we set them. Every curtain, blind, wallpaper, and upholstery piece we create is a bold statement of quality, where innovative design meets uncompromising execution.",
+    "standards": [
+      {
+        "title": "Absolute Excellence",
+        "description": "Excellence isn't optional - it's mandatory. We create soft furnishings that don't just meet expectations - they shatter them. Every piece is a powerful combination of design, comfort, and durability, engineered to transform spaces and exceed standards."
+      },
+      {
+        "title": "Premium Materials, Zero Compromise",
+        "description": "We source only the best materials, period. Our partnerships with top suppliers ensure every fabric and material meets our demanding standards for both quality and sustainability. No compromises, no exceptions."
+      },
+      {
+        "title": "Fearless Innovation",
+        "description": "We don't follow trends - we set them. Our designs push boundaries and challenge conventions, combining bold innovation with rock-solid craftsmanship to create pieces that don't just fit in - they stand out."
+      },
+      {
+        "title": "Detail Obsessed",
+        "description": "Details aren't minor - they're everything. From the strength of each stitch to the precision of every finish, we obsess over the details that others overlook. Because greatness isn't just about the big picture - it's about nailing every single element."
+      },
+      {
+        "title": "On Time, Every Time",
+        "description": "We don't do delays. Our streamlined production process and precise logistics ensure your custom furnishings arrive exactly when promised. Quality at speed, delivered on schedule."
+      },
+      {
+        "title": "Your Vision, Amplified",
+        "description": "Your bold ideas drive our creative engine. We don't just listen to your vision - we enhance it, pushing boundaries to create soft furnishings that exceed your expectations and transform your space."
+      },
+      {
+        "title": "Beyond the Basics",
+        "description": "Our commitment doesn't end at delivery. We provide comprehensive, ongoing support to ensure your bold design choices continue to make an impact. Count on us to maintain the power of your space."
+      },
+      {
+        "title": "Always Advancing",
+        "description": "We're never satisfied with 'good enough.' Your feedback fuels our evolution, pushing us to create even more powerful designs and innovative solutions. Together, we're always moving forward, always improving."
+      }
+    ]
+  },
+  "sustainability": {
+    "title": "Sustainable Impact",
+    "intro": "We're committed to bold environmental responsibility. Every decision, from material selection to manufacturing processes, is made with both maximum impact and minimum environmental footprint in mind."
+  },
+  "footer": {
+    "brand_description": "We don't just create furnishings - we engineer statements. Delivering powerful soft furnishing solutions with zero-compromise quality and fearless service across Bangalore."
+  },
+  "about_page": {
+    "hero": {
+      "title": "About Snug",
+      "paragraphs": [
+        "At Snug, we dominate the game of soft furnishing, creating powerful solutions that inject boldness, impact, and personality into your living spaces. Our expertise delivers through statement curtains, commanding blinds, striking wallpapers, and transformative upholstery—each piece engineered to make your space impossible to ignore.",
+        "With over a decade of revolutionizing spaces, we understand that every environment needs to make a statement. Our fearless team works relentlessly with you to turn your bold vision into reality, ensuring that every material chosen, every pattern selected, and every detail executed contributes to creating spaces that don't just impress—they dominate."
+      ],
+      "tagline": "Where power meets design—built to make your statement.",
+      "cta_text": "Start Your Revolution"
+    }
+  }
+}

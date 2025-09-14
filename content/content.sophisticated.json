@@ -1,0 +1,152 @@
+{
+  "hero": {
+    "welcome_text": "Elevate Your\nSanctuary",
+    "tagline": "Where refined aesthetics meet unparalleled craftsmanship",
+    "cta_text": "Discover Excellence",
+    "cta_link": "/productPg"
+  },
+  "intro": {
+    "text": "Snug presents an exquisite collection of bespoke soft furnishings, where contemporary luxury harmoniously blends with timeless elegance to transform your living spaces."
+  },
+  "features": [
+    {
+      "title": "Made in India",
+      "image": "/img/desc1.jpeg",
+      "description": "Our atelier celebrates the pinnacle of Indian craftsmanship, where generations of artisanal expertise converge with contemporary sophistication. Each curtain, blind, wallpaper, and upholstery piece is a masterwork of precision and artistry, exemplifying the refined aesthetics that India's master craftsmen are renowned for."
+    },
+    {
+      "title": "Complete Personalisation",
+      "image": "/img/desc2.jpeg",
+      "description": "Immerse yourself in the art of bespoke luxury with our comprehensive customization atelier. From selecting prestigious fabrics to curating exclusive patterns, we orchestrate every element of your curtains, blinds, wallpapers, and upholstery to create an ensemble that resonates with your refined tastes."
+    },
+    {
+      "title": "Quality Assurance",
+      "image": "/img/desc3.jpeg",
+      "description": "Excellence is our signature. Through a meticulous fusion of premium materials and masterful craftsmanship, we create soft furnishings that transcend ordinary standards. Our rigorous quality protocols ensure each piece is a testament to luxury, designed to enhance your space with enduring elegance."
+    }
+  ],
+  "services": {
+    "title": "Our Bespoke Services",
+    "items": [
+      {
+        "title": "Custom Curtains",
+        "image": "/img/curtainWork.jpg",
+        "description": "Elevate your windows with our distinguished collection of custom drapery. Each piece is meticulously crafted to create an elegant harmony between sophistication and functionality, perfectly framing your view of the world."
+      },
+      {
+        "title": "Window Blinds",
+        "image": "/img/blinds.jpg",
+        "description": "Experience the epitome of refined light control with our premium blind collection. From sleek roller designs to classic venetian styles, each piece is engineered to provide sophisticated solutions for modern living."
+      },
+      {
+        "title": "Wallpapers",
+        "image": "/img/wallpaper.jpg",
+        "description": "Transform your walls into captivating canvases with our curated selection of prestigious wallpapers. Each design tells a story of sophistication, featuring exclusive patterns from renowned international and Indian design houses."
+      },
+      {
+        "title": "Upholstery",
+        "image": "/img/SAN_2010r.jpg",
+        "description": "Reimagine your furniture with our distinguished upholstery services. We artfully combine luxurious fabrics with expert craftsmanship to create pieces that exemplify sophistication and enduring comfort."
+      }
+    ]
+  },
+  "about": {
+    "main_intro": "THE ESSENCE OF LUXURY",
+    "paragraphs": [
+      "Welcome to Snug, where refined aesthetics and unparalleled craftsmanship converge to create extraordinary living spaces.",
+      "We understand that true luxury lies in the perfect synthesis of form and function. Each piece we create is a testament to our commitment to excellence, designed to elevate your living environment with sophisticated elegance.",
+      "In pursuit of perfection, we collaborate with prestigious, environmentally conscious artisans and suppliers, ensuring our creations not only exemplify luxury but also uphold the highest standards of sustainability.",
+      "Allow us to transform your residence through our masterfully crafted curtains, blinds, wallpapers, and upholstery\u2014where every detail is curated to create an atmosphere of distinguished sophistication."
+    ],
+    "cta_text": "Explore Our Legacy",
+    "cta_link": "/about"
+  },
+  "vision_mission": {
+    "vision": {
+      "title": "Our Vision",
+      "paragraphs": [
+        "To establish ourselves as India's preeminent purveyor of refined soft furnishings, setting new standards in the artistry of interior elegance.",
+        "We envision a future where every residence becomes a masterpiece of personal expression through our meticulously crafted soft furnishing solutions."
+      ]
+    },
+    "mission": {
+      "title": "Our Mission",
+      "main_text": "To elevate residential spaces through exquisitely crafted soft furnishing solutions that surpass the highest expectations of luxury and refinement.",
+      "points": [
+        "Comprehending the nuanced vision and lifestyle aspirations of each client",
+        "Providing expert consultation with sophisticated precision",
+        "Creating bespoke pieces with prestigious materials and masterful artistry",
+        "Making refined luxury accessible to the discerning client"
+      ]
+    }
+  },
+  "values": {
+    "title": "Our Principles",
+    "subtitle": "The foundations of our distinguished service",
+    "items": [
+      {
+        "title": "Uncompromising Excellence",
+        "description": "We maintain the highest standards in materials and craftsmanship, ensuring each piece is a masterwork of quality."
+      },
+      {
+        "title": "Bespoke Refinement",
+        "description": "Every creation is meticulously tailored to reflect the sophisticated tastes and preferences of our discerning clientele."
+      }
+    ]
+  },
+  "quality_standards": {
+    "intro": "At Snug, we orchestrate an exceptional fusion of premium materials, masterful craftsmanship, and enduring sophistication. Our commitment to excellence manifests in every curtain, blind, wallpaper, and upholstery piece we create, where innovative design meets meticulous attention to detail.",
+    "standards": [
+      {
+        "title": "Pursuit of Excellence",
+        "description": "Excellence is not merely our aspiration\u2014it is our signature. We craft premium soft furnishings that masterfully integrate sophisticated design, exceptional comfort, and lasting refinement. Our commitment transcends mere aesthetics, focusing on creating transformative pieces that elevate living spaces to new heights of luxury."
+      },
+      {
+        "title": "Premium Materials & Environmental Stewardship",
+        "description": "We source the most prestigious materials through our carefully curated network of suppliers, ensuring each element meets our exacting standards. Our selection process harmoniously balances luxurious quality with environmental responsibility, creating pieces that honor both sophisticated living and sustainable practices."
+      },
+      {
+        "title": "Innovation in Artistry",
+        "description": "Our design philosophy seamlessly merges cutting-edge innovation with timeless sophistication. We continuously evolve our artistic approach to meet contemporary demands while preserving classical elegance. Each creation represents the perfect synthesis of forward-thinking design and masterful execution."
+      },
+      {
+        "title": "Precision in Detail",
+        "description": "Excellence manifests in the finest details. From the precision of each stitch to the refinement of every finish, our master artisans ensure that functionality and sophistication coexist in perfect harmony. We create not merely furnishings, but carefully orchestrated works of art that elevate your space."
+      },
+      {
+        "title": "Impeccable Timing",
+        "description": "We honor your schedule with the same precision we bring to our craft. Our refined production process and sophisticated logistics ensure your bespoke furnishings are completed and delivered with exactitude, never compromising our standards of excellence in meeting your timeline."
+      },
+      {
+        "title": "Client-Centric Philosophy",
+        "description": "Your vision serves as the cornerstone of our creative process. We engage in detailed consultation to understand your refined tastes and specific requirements, transforming your aspirations into bespoke soft furnishings that perfectly reflect your sophisticated style."
+      },
+      {
+        "title": "Distinguished Service",
+        "description": "Our commitment to excellence extends beyond the creation of your bespoke pieces. We provide comprehensive support throughout your journey, ensuring that every interaction reflects the sophistication and attention to detail that defines the Snug experience."
+      },
+      {
+        "title": "Continuous Refinement",
+        "description": "We value your discerning feedback as essential to our pursuit of excellence. Your insights enable us to continuously elevate our creations and services, ensuring we remain at the forefront of sophisticated soft furnishing design and execution."
+      }
+    ]
+  },
+  "sustainability": {
+    "title": "Environmental Stewardship",
+    "intro": "Our commitment to environmental responsibility is executed with the same precision and sophistication that defines our craft, from the selection of sustainable materials to our refined manufacturing processes."
+  },
+  "footer": {
+    "brand_description": "Curating distinguished soft furnishing experiences through unparalleled craftsmanship and sophisticated design excellence for discerning Bangalore clientele."
+  },
+  "about_page": {
+    "hero": {
+      "title": "About Snug",
+      "paragraphs": [
+        "At Snug, we represent the pinnacle of soft furnishing excellence, orchestrating sophisticated solutions that elevate your living spaces to unprecedented heights of luxury. Our distinguished expertise manifests through bespoke curtains, premium blinds, prestigious wallpapers, and refined upholstery—each piece meticulously crafted to exemplify the highest standards of sophistication and artistry.",
+        "With over a decade of setting new benchmarks in interior elegance, we comprehend that every residence requires a distinctive expression of refined taste. Our master artisans collaborate closely with you to translate your sophisticated vision into exquisite reality, ensuring every material selection, pattern curation, and finishing detail contributes to creating environments that embody distinguished luxury."
+      ],
+      "tagline": "Where sophistication meets artistry—elevated for the discerning.",
+      "cta_text": "Commence Your Journey"
+    }
+  }
+}
