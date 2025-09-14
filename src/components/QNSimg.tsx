@@ -7,7 +7,7 @@ const QNSimg = ({img}:{img:string | null}) => {
             <Image 
                 height= "556"
                 width= "1921"
-                src = {img === 'i' ? "/img/indItemsTag.jpeg" : "/img/qnsIMG.jpeg"}
+                src = {img === 'i' ? "https://snug-delivery-landing.s3.amazonaws.com/img/indItemsTag.jpeg" : "https://snug-delivery-landing.s3.amazonaws.com/img/qnsIMG.jpeg"}
                 alt='imgQNS'
                 style={{ height: "556px", objectFit: "cover", objectPosition: "50%"}}
             />

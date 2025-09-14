@@ -11,6 +11,12 @@ const nextConfig = {
         port: '',
         pathname: '/images/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'snug-delivery-landing.s3.amazonaws.com',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 };
