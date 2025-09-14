@@ -1,7 +1,0 @@
-{
-    "functions": {
-        "app/api/**/route.ts": {
-        "excludeFiles": "node_modules/@next/** node_modules/typescript/** node_modules/tailwindcss/** node_modules/lucide-react/icons/**"
-        }
-    }
-}
